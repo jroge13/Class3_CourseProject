@@ -1,17 +1,17 @@
 # Class3_CourseProject
 This is a README file for the Class 3 Course Project.
 
-Reference for Data
+##Reference for Data
 
 Before continuing on, I would like to acknowledge where this data is coming from:
 
 Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
 
-Location for the Data
+##Location for the Data
 
 The data can be downloaded via this link: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-Files of Importance
+##Files of Importance
 
 The relevant files for this project are as follows:
 “test/X_test.txt”
@@ -27,7 +27,7 @@ Good reference files:
 “features_info.txt”
 “README.txt”
 
-Protocol
+##Protocol
 
 Before proceeding, please note that this protocol uses R Studio, version 3.2.1 on Windows. Please edit commands as necessary to fit your particular program.
 
